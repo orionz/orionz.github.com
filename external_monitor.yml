@@ -1,0 +1,6 @@
+options:
+  external_cmd:
+    name: External Command
+    notes: Specify the full path to the External Command that generates JSON output
+    default: /bin/some/script
+
